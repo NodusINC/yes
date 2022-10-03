@@ -1,7 +1,6 @@
-{
+[
 
 	"None",
-	-- CyberSport clan-tags,
 	"Na`Vi", 
 	"fnatic",
 	"NIP",
@@ -15,9 +14,6 @@
 	"Titan",
 	"Vitality l",
 	"FURIA ·",
-
-	-- Other clan-tags #1
-
 	"Secret_Base",
 	"Hentai!･",
 	"Oops, Sorry",
@@ -39,9 +35,6 @@
 	"❤Mne Pohuy",
 	"ANTIHACK ♥",
 	"60hz.god",
-
-	-- Other clan-tags #2
-
 	"noob",
 	"god",
 	"MyasoJebanoe",
@@ -52,9 +45,6 @@
 	"⭕⃤ ᠌ ",
 	".agressive",
 	"2goodforban",
-
-	-- Other clan-tags #3
-
 	"ragebotting",
 	"beta",
 	"✩Wallhack",
@@ -74,3 +64,4 @@
 	"memory about",
 	"ɪɴsᴀɴᴇ.",
 	".zuhn"
+]
